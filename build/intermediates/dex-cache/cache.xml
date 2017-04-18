@@ -19,23 +19,5 @@
         sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
         <dex dex="/Users/kmvelia/AndroidStudioProjects/Api-Android_Pokemon/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_22c8aa972f899442cdcb4a4e9a03afdfb3092095/classes.dex" />
     </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kmvelia/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.1/constraint-layout-solver-1.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
-        <dex dex="/Users/kmvelia/AndroidStudioProjects/Api-Android_Pokemon/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.1_28781bd5b384f25d92f57d335f79e231e9c22be9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kmvelia/.android/build-cache/7a8a457eee2fc0832afe98e2762083db5b91a6b5/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7113302c965566b66df46c6ca75ea301576114a5">
-        <dex dex="/Users/kmvelia/AndroidStudioProjects/Api-Android_Pokemon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0712fe0584245a7e80345f5e094453af2a83b34/classes.dex" />
-    </item>
 
 </items>

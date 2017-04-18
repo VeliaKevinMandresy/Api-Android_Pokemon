@@ -6,7 +6,7 @@ import android.widget.*;
 
 public class MainActivity extends AppCompatActivity {
     ListView mListView;
-    String[] prenoms = new String[]{
+    String[] prenoms = {
             "Antoine", "Benoit", "Cyril", "David", "Eloise", "Florent",
             "Gerard", "Hugo", "Ingrid", "Jonathan", "Kevin", "Logan",
             "Mathieu", "Noemie", "Olivia", "Philippe", "Quentin", "Romain",
@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        mListView = (ListView) mListView.findViewById(R.id.catList);
+        mListView = (ListView) findViewById(R.id.catList);
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(MainActivity.this,
                 android.R.layout.simple_list_item_1, prenoms);
         mListView.setAdapter(adapter);
