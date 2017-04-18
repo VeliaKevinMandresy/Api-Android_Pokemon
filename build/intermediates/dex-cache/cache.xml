@@ -3,318 +3,39 @@
 
     <item
         is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jar="/Users/kmvelia/AndroidStudioProjects/Api-Android_Pokemon/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_bdfcc8ba505dd30f6840a23dac703a4d1aa59e63/classes.dex" />
+        sha1="5e469a2a08027cd1a90d1d0c027cc3cd38d199ee">
+        <dex dex="/Users/kmvelia/AndroidStudioProjects/Api-Android_Pokemon/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b7c073697c0e393fe45faa03446eac8722d7b570/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jar="/Users/kmvelia/AndroidStudioProjects/Api-Android_Pokemon/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_2c0d6b8bb7143885248b81ad9bdfb1c6bdfbefa6/classes.dex" />
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/kmvelia/AndroidStudioProjects/Api-Android_Pokemon/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_22c8aa972f899442cdcb4a4e9a03afdfb3092095/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_bb1210c5bf5de8b8f0322982b6bd8586f66a3f96/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="bb5f227bdd27874f8bf7bd71e70b6fadf9d2f626">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_97d78d6aff677d1de72b4cfd4dfd1b68a453cf2a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_be039aec7ecb9a7334bbd1cfacbf1bd871f0376c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e59634d245e4bf961135dafbf9cd4bd8a6d5e3e2">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ae35f7f68d9b46b7602516fbdc1f57e56bde8e7d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_f50eefd1b3741d6c952f0241f9145831bbefbc78/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_48e57e5028e67c34dcc46d716b8c576fd44e9cce/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="887a17e2fc000eb499332a2047e3c0b8a324bfcb">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1f59f402a4595d152605eb7b8340b898248a321c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_df88236354f5acf95adde9fc512d9ae92defa145/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8d3350f572ac5134be0c4d3cc033eb5061ad3b88">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0c979fb79827f149d59e29748e7b51990ef6a4c1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_ded30f1a9670d1c3e2dab94191673dc91204e81b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_0388585503ed8db256ac700081f2205a9a531e48/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_949c7c14fc49094b961f207378d3e60d626452e8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_d0e3dd098e5dfec54d43803c7db3e7a244cccdab/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_fc1632162b5a8837a754bedf98ae683eca4b91ba/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_ec5140490de987132e0c65e50a6335367df7ca2d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_29c408d0a24be4b8329ca82eaf7b9e8d6917beb2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_d7392a8fbc74a765b4356c42a614b12d4642a07d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_4b73bf82b7058ee3b33a75e55b8cfe3b6a8eb77c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_76cd32de05c87853d885c6b367df1a8f7904856f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_46950f94b7bb79e8bdd8e07d3ff4ab9a1e9f98d7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_2225fe22983f5e9f0e3065808d8bc02e1d2df05d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7113302c965566b66df46c6ca75ea301576114a5">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.1_82562de883871616b5901d9cced6c18dfabe2ed0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_b51b4883d273cfbd435fef904ab6fc1db1cabea0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_22362fa9c987dab7e7486dff470d5363257025d8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_6f0373a6ba8b3a09d6e98a9782d94fcd79fa67c9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_4abc30dd22a83306860a758dfd737c34b7efa339/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_164f663e7cd8d2a45589290814657f64507b1177/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.1/constraint-layout-solver-1.0.1.jar"
+        jar="/Users/kmvelia/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.1/constraint-layout-solver-1.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.1_fb9ae4a10cca93495eae7d59a205e65c3ae324bf/classes.dex" />
+        <dex dex="/Users/kmvelia/AndroidStudioProjects/Api-Android_Pokemon/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.1_28781bd5b384f25d92f57d335f79e231e9c22be9/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jar="/Users/kmvelia/.android/build-cache/7a8a457eee2fc0832afe98e2762083db5b91a6b5/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_df97614b36b19620b612b44cd183c4f6674b8e81/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_5608f0f2be52d78cb626b379319cc50c7320f258/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_40d49e8ce1a1cdfa117de9bffe4049d08da16343/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/Api-Android_Spotify/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_3d306dc22c062c4aa1b06b9658b587d94ee9c693/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="/Users/guimeus-mbp/AndroidStudioProjects/TICMOBI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_237a7b30b6f882e19b998a39d6f4155f8848db92/classes.dex" />
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="/Users/kmvelia/AndroidStudioProjects/Api-Android_Pokemon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0712fe0584245a7e80345f5e094453af2a83b34/classes.dex" />
     </item>
 
 </items>
